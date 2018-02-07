@@ -1,3 +1,8 @@
+theme: jekyll-theme
+title: Bienvenido a esta página! No tengo ni idea de qué debo hacer
+description: Aquí no hay nada importante que ver
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IrisHolmes/Chucherias/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
